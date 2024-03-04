@@ -1,0 +1,23 @@
+D:/Programación de Plugins/Franco Salinas - Cursado/Web Api/Aplicacion/bin/Debug/net8.0/Aplicacion.deps.json
+D:/Programación de Plugins/Franco Salinas - Cursado/Web Api/Aplicacion/bin/Debug/net8.0/Aplicacion.dll
+D:/Programación de Plugins/Franco Salinas - Cursado/Web Api/Aplicacion/bin/Debug/net8.0/Aplicacion.pdb
+D:/Programación de Plugins/Franco Salinas - Cursado/Web Api/Aplicacion/obj/Debug/net8.0/Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:/Programación de Plugins/Franco Salinas - Cursado/Web Api/Aplicacion/obj/Debug/net8.0/Aplicacion.AssemblyInfoInputs.cache
+D:/Programación de Plugins/Franco Salinas - Cursado/Web Api/Aplicacion/obj/Debug/net8.0/Aplicacion.AssemblyInfo.cs
+D:/Programación de Plugins/Franco Salinas - Cursado/Web Api/Aplicacion/obj/Debug/net8.0/Aplicacion.csproj.CoreCompileInputs.cache
+D:/Programación de Plugins/Franco Salinas - Cursado/Web Api/Aplicacion/obj/Debug/net8.0/Aplicacion.dll
+D:/Programación de Plugins/Franco Salinas - Cursado/Web Api/Aplicacion/obj/Debug/net8.0/refint/Aplicacion.dll
+D:/Programación de Plugins/Franco Salinas - Cursado/Web Api/Aplicacion/obj/Debug/net8.0/Aplicacion.pdb
+D:/Programación de Plugins/Franco Salinas - Cursado/Web Api/Aplicacion/obj/Debug/net8.0/ref/Aplicacion.dll
+D:/Programación de Plugins/Franco Salinas - Cursado/Web Api/Aplicacion/obj/Debug/net8.0/Aplicacion.sourcelink.json
+/home/et12alumno/Descargas/Vendedor_Online-main/Aplicacion/obj/Debug/net8.0/Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Descargas/Vendedor_Online-main/Aplicacion/obj/Debug/net8.0/Aplicacion.AssemblyInfoInputs.cache
+/home/et12alumno/Descargas/Vendedor_Online-main/Aplicacion/obj/Debug/net8.0/Aplicacion.AssemblyInfo.cs
+/home/et12alumno/Descargas/Vendedor_Online-main/Aplicacion/obj/Debug/net8.0/Aplicacion.csproj.CoreCompileInputs.cache
+/home/et12alumno/Descargas/Vendedor_Online-main/Aplicacion/obj/Debug/net8.0/Aplicacion.dll
+/home/et12alumno/Descargas/Vendedor_Online-main/Aplicacion/obj/Debug/net8.0/refint/Aplicacion.dll
+/home/et12alumno/Descargas/Vendedor_Online-main/Aplicacion/obj/Debug/net8.0/Aplicacion.pdb
+/home/et12alumno/Descargas/Vendedor_Online-main/Aplicacion/bin/Debug/net8.0/Aplicacion.deps.json
+/home/et12alumno/Descargas/Vendedor_Online-main/Aplicacion/bin/Debug/net8.0/Aplicacion.dll
+/home/et12alumno/Descargas/Vendedor_Online-main/Aplicacion/bin/Debug/net8.0/Aplicacion.pdb
+/home/et12alumno/Descargas/Vendedor_Online-main/Aplicacion/obj/Debug/net8.0/ref/Aplicacion.dll
